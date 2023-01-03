@@ -1,4 +1,4 @@
-# meta-universe-future-city
+# meta-city
 
 ## Project setup
 ```
